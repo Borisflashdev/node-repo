@@ -1,0 +1,23 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borisflashdev/node-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Borisflashdev/node-repo/issues"
+  },
+  "homepage": "https://github.com/Borisflashdev/node-repo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
